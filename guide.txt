@@ -1,0 +1,3 @@
+https://github.com/capacitor-community/uxcam
+
+https://developer.uxcam.com/docs/cordova#capacitor-integration

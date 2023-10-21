@@ -1,0 +1,8 @@
+.tab-selected ion-label {
+    color: green;
+    font-weight: bold;
+}
+
+.grocery-label {
+    white-space: nowrap;
+}

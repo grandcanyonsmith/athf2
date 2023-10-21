@@ -1,0 +1,20 @@
+.main-bg {
+    --background: none;
+    background: url("/assets/thfbg.jpg") no-repeat fixed center;
+    background-size: cover;
+    background-color: #6fa56f;
+}
+
+.main-bg img {
+    width: 80%;
+    display: block;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.main-bg .progress-item {
+    width: 80%;
+    display: block;
+    margin: auto;
+    background: #ccc;
+}

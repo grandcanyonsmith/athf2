@@ -1,0 +1,43 @@
+.login-div {
+    margin: 0px 30px;
+}
+
+.remember-me {
+    margin-left: 15px;
+    color: #FFF;
+}
+
+.img-size {
+    height: 75px;
+}
+
+.forgot {
+    margin: 10px;
+    text-align: center;
+    color: #fff!important;
+    font-size: 13px;
+    text-decoration: underline;
+}
+
+.background-image {
+    --background: none;
+    background: url("/assets/thfbg.jpg") no-repeat fixed center;
+    background-size: cover;
+  }
+
+  .remember-me {
+      background: transparent;
+  }
+
+  ion-checkbox {
+      --background: transparent;
+      --border-color: #fff;
+  }
+
+  .bg-dark {
+    color: #fff;
+  }
+
+  .lbl-padding  {
+      padding-left: 10px;
+  }

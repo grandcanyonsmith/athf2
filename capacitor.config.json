@@ -1,0 +1,26 @@
+{
+  "appId": "com.thf.neat",
+  "appName": "N.E.A.T",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "allowMixedContent": true,
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    },
+    "GoogleAuth": {
+      "scopes": ["profile","email"],
+      "serverClientId": "407776804865-mq52fkg224vsp632jk8n09mqp6vuk9f1.apps.googleusercontent.com",
+      "forceCodeForRefreshToken": true
+      }
+  },
+  "server": {
+    "allowNavigation": [
+      "ec2-3-128-25-224.us-east-2.compute.amazonaws.com",
+      "api.totalhealthandfitness.com",
+      "api.elevated.totalhealthandfitness.com"
+    ]
+  },
+  "cordova": {}
+}

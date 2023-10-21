@@ -1,0 +1,10 @@
+.company_name_branding {
+    margin-top: 75px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.company_logo_branding img {
+    display: block;
+    margin: 20px auto;
+}

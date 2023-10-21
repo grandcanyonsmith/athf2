@@ -1,0 +1,62 @@
+.selected-food-container {
+    margin-top: 15px;
+}
+
+.food_search_qty {
+    float: left;
+    width: 65px;
+}
+
+.food_search_qty input {
+    padding: 5px 0px!important;
+    border: 1px solid #ccc!important;
+    border-radius: 3px!important;
+    padding: 5px 5px!important;
+}
+
+.inp-qty-col > div,
+.inp-qty-col > div ion-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.inp-qty-col ion-text {
+    line-height: 30px;
+    margin-left: 2px;
+}
+
+.food-icon-remove {
+    font-size: 22px;
+}
+
+.selected-foods-footer ion-button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.item_qty_val_food {
+    vertical-align: sub;
+    margin-left: 5px;
+}
+
+.card_food_selected ion-avatar {
+    margin-right: 10px;
+}
+
+.card_food_selected ion-item {
+    text-transform: capitalize;
+}
+
+.selected-foods-container {
+    max-height: calc(100vh - 130px) !important;
+    overflow-y: auto;
+}
+
+.item_label_food {
+    max-width: fit-content!important;
+}
+/* .food_search_qty + span {
+    float: right;
+    margin-top: 7px;
+} */

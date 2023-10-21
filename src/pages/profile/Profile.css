@@ -1,0 +1,111 @@
+.profile-image {
+    font-size: 110px;
+    opacity: 0.5;
+    margin: auto;
+    display: block;
+}
+
+.profile-image div {
+    text-align: center;
+}
+
+.align {
+    text-align: center;
+}
+
+ section {
+    display: flex;
+    align-items: center ;
+    justify-content: space-between;
+    padding: 0 1rem;
+    max-width: 300px;
+    width: 100%;
+  }
+  
+  ion-datetime {
+    width: 100%;
+  }
+
+  .borderBottom {
+      border-bottom: 1px solid #dedede;
+  }
+
+  .inner-items-icons {
+    margin: auto;
+  }
+
+  .update-photo {
+    color: var(--ion-color-success);
+    font-size: 14px;
+  }
+
+  .must-be-photo {
+    font-size: 14px;
+    color: #929090;
+  }
+
+  img.profile-pic {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  .select-state {
+    margin-right: 15px;
+  }
+
+  .select-state,
+  .profile-birth-date,
+  .select-gender {
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    height: 34px;
+    margin-top: 5px;
+  }
+
+  .profile-main-container {
+    padding: 15px;
+  }
+
+  .phone-col ion-item {
+    --padding-start: 5px;
+  }
+
+  .home-phone-col ion-item {
+    --padding-start: 0px;
+  }
+
+  .label-font {
+    font-size: 13px;
+  }
+
+  .left-pad {
+    padding-left: 10px;
+  }
+
+  .cls-date-time {
+    padding-left: 0px;
+  }
+
+  .apt_suite ion-item {
+    --padding-start: 5px;
+  }
+  
+  .pad-handle-left ion-item {
+    --padding-start: 0px;
+  }
+
+  .zip-item {
+    margin-top: -7px;
+  }
+
+  .zip-item ion-item {
+    --padding-start: 0px;
+  }
+
+  .col-dob {
+    padding-right: 12px;
+  }

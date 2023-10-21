@@ -1,0 +1,46 @@
+.aligncenter {
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+.cuisine-label {
+    padding: 0px!important;
+    margin: 0px!important;
+    font-size: 13px;
+}
+
+.select-action {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+    padding: 10px;
+}
+
+.restaurant-items {
+    max-height: calc(100vh - 450px) !important;
+    overflow: auto;
+    margin: 0px 15px;
+    min-height: 100px;
+}
+
+.selected_restaurant {
+    --background: #eae9e9;
+}
+
+.padding-main {
+    /* padding: 20px */
+}
+
+.choose-restaurant-label {
+    height: 38px;
+}
+
+.select-action {
+    height: 36px;
+}
+
+.dining-main-container {
+    max-height: calc(100vh - 85px) !important;
+    overflow: auto;
+}

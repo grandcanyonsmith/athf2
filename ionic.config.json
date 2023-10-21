@@ -1,0 +1,11 @@
+{
+  "name": "N.E.A.T",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "proxies": [{
+    "path": "/auth",
+    "proxyUrl": "http://ec2-3-128-25-224.us-east-2.compute.amazonaws.com:3242"
+}]
+}

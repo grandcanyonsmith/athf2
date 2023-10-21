@@ -1,0 +1,12 @@
+.selected_exercise {
+    --background: #eae9e9;
+}
+
+.exercise-container {
+    max-height: calc(100vh - 275px) !important;
+    overflow-y: auto;
+}
+
+/* .exercise-add-container {
+    padding: 20px;
+} */

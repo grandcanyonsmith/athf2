@@ -1,0 +1,22 @@
+.cls-textarea {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.cls-padding {
+    padding: 15px;
+}
+
+.specific-note {
+    text-align: left;
+    font-family: inherit;
+    white-space: pre-wrap;
+    line-height: 22px;
+    max-height: calc(100vh - 375px) !important;
+    overflow: auto;
+}
+
+.notes-spec-container {
+    /* padding: 15px; */
+}

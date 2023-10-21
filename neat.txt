@@ -1,0 +1,8 @@
+D:\filostech\thfclientneat\neat.jks
+Password: neatthf
+
+First and Last name: neat
+Organization Unit: neat 
+Organization: THF
+City: Utah
+State: US 

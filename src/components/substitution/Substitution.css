@@ -1,0 +1,13 @@
+.substitution-container {
+    height: calc(100vh - 220px) !important; 
+    overflow-y: auto;
+}
+
+/* .substition-top-container {
+    padding: 20px;
+    padding-top: 0px;
+} */
+
+.alignText {
+    text-align: left;
+}

@@ -1,0 +1,8 @@
+.search_impersonate {
+    text-align: center;
+    color: gray;
+}
+
+.user_item.item > div:hover {
+    background: #ccc;
+}

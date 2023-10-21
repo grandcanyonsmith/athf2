@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Total Health and Fitness</title>
+
+    <base href="/" />
+
+    <meta name="color-scheme" content="light dark" />
+    <meta
+      name="viewport"
+      content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="msapplication-tap-highlight" content="no" />
+    <meta name="google-signin-client_id" content="407776804865-mq52fkg224vsp632jk8n09mqp6vuk9f1.apps.googleusercontent.com">
+
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+
+    <link rel="shortcut icon" type="image/png" href="%PUBLIC_URL%/assets/icon/favicon.png" />
+
+    <!-- add to homescreen for ios -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Ionic App" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  </head>
+
+  <body>
+    <div id="root"></div>
+  </body>
+  <script>
+    window.onUsersnapCXLoad = function(api) {
+      api.init();
+    }
+    var script = document.createElement('script');
+    script.defer = 1;
+    script.src = 'https://widget.usersnap.com/global/load/55111a3c-30fa-485b-8ed0-d50c6389ae7a?onload=onUsersnapCXLoad';
+    document.getElementsByTagName('head')[0].appendChild(script);
+  </script>
+</html>

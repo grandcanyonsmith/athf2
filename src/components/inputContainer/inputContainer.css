@@ -1,0 +1,42 @@
+.input-icon {
+    margin-top: 20px;
+}
+
+.input-field .input-section {
+    border: 1px solid #ccc!important;
+    margin-top: 10px;
+    border-radius: 5px!important;
+    position: relative;
+    width: 100%;
+}
+
+.bg-dark.input-field .input-section {
+    border: 1px solid #fff!important;
+}
+
+.input-field .input-section ion-input {
+    padding: 0px 10px!important;
+}
+
+.input-field ion-icon {
+    position: absolute;
+    top: -22px;
+    right: 0px;
+    padding: 10px;
+    z-index: 9;
+}
+
+.bg-dark.input-field ion-icon {
+    color: #fff;
+}
+
+.bg-dark.input-field ion-label {
+    color: #fff!important;
+}
+
+.spec-out-icon-input {
+    border: 1px solid #ccc;
+    margin: 0px 10px;
+    border-radius: 5px;
+    padding: 0px 10px !important;
+}

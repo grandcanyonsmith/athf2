@@ -1,0 +1,173 @@
+.speccountinput_exe ion-icon {
+    margin: 0px;
+}
+
+.speccountinput_exe  {
+    --padding-end: 0px;
+    --inner-padding-end: 0px;
+}
+
+.speccountinput_exe ion-input,
+.speccountinput_exe ion-icon {
+    border: 1px solid #ccc;
+}
+
+.speccountinput_exe .first {
+    border-right: 0px;
+    border-radius: 7px 0px 0px 7px;
+    padding: 3px 0px;
+}
+
+.speccountinput_exe .last {
+    border-left: 0px;
+    border-radius: 0px 7px 7px 0px;
+    padding: 3px 0px;
+}
+
+.speccountinput_exe ion-icon {
+    padding: 7px 0px;
+}
+
+/* .inut_qty input {
+    padding: 5px!important;
+    height: 30px;
+} */
+
+.spec_col_exe {
+    padding: 3px!important;
+}
+
+/* Remove it for ios */
+/* .speccountinput_exe .inut_qty {
+    height: 32px;
+} */
+/*Up to here*/
+
+.exe_input_qty input {
+    padding: 2px!important;
+}
+
+.exe_unit_input input {
+    padding: 2px!important;
+}
+
+.exercise_chg_qty {
+    height: 32px;
+}
+
+.first-progress {
+    height: 111px;
+}
+
+.marginTop {
+    margin-top: 10px!important;
+}
+
+.second-progress {
+    position: absolute;
+    left: 0px;
+    height: 94px;
+    top: 13px;
+}
+
+.alignRight {
+    text-align: right;
+}
+
+.alignCenter {
+    text-align: center;
+}
+
+.alignaddexercise {
+    padding-right: 20px;
+    margin-bottom: 15px;
+}
+
+.exe_first_label {
+    margin: 0px;
+    margin-left: 23px!important;
+}
+
+.ios .exe_first_label {
+    margin-left: 23px!important;
+}
+
+.txt_ion_exe {
+    width: 100%;
+}
+
+.del_exe_icon {
+    font-size: 14px;
+}
+
+.exe_second_label {
+    margin: 0px;
+    margin-left: 5px!important;
+}
+
+.chg_qty_input {
+    color: #737373;
+    font-size: 14px;
+}
+
+.fontBold {
+    font-weight: bold;
+}
+
+.spec_exe_info_input {
+    border: 1px solid #ccc;
+    padding: 3px!important;
+    border-radius: 5px;
+    margin-top: 6px;
+    color: gray;
+    font-size: 14px;
+    height: 32px;
+}
+
+.spec_exe_info_input.ios {
+    margin-top: 4px!important;
+} 
+
+.edit-note {
+    font-size: 20px;
+}
+
+.card-main ion-row {
+    width: 100%;
+}
+
+.set_add {
+    padding-left: 15px;
+    padding-bottom: 5px;
+    line-height: 20px;
+}
+
+.note_edit {
+    padding-right: 15px;
+    padding-bottom: 5px;
+    color: #000;
+}
+
+.spec_col_exe ion-icon.ios {
+    height: 24px;
+}
+
+.exe_plan_name {
+    margin: 8px 0px;
+    font-size: 14px;
+    color: #676565;
+}
+
+.exe_card:first-child ion-item {
+    --padding-top: 15px;
+}
+
+.exe_check_mark_icon {
+    font-size: 20px;
+    margin: 20px;
+}
+
+.progressDiv {
+    height: 4px;
+    background-color: #fff;
+}

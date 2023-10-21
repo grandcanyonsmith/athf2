@@ -1,0 +1,16 @@
+.week-list-row {
+    text-align: center;
+    font-size: 14px;
+}
+
+.week-list-col {
+    padding: 10px 5px 10px 5px;
+    min-width: 38px;
+}
+
+.week-selected {
+    background: black;
+    color: #fff;
+    display: inline-block;
+    border-radius: 18px;
+}

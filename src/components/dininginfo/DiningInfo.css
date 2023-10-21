@@ -1,0 +1,20 @@
+.align-right {
+    text-align: right;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.spec-row-rec {
+    padding: 10px 0px;
+}
+
+.padding-main {
+    /* padding: 20px; */
+}
+
+.dining-info-container {
+    max-height: calc(100vh - 170px) !important;
+    overflow: auto;
+}

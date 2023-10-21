@@ -1,0 +1,38 @@
+.goals-info p {
+    font-size: 14px;
+    margin: 5px 0px;
+}
+
+.handle-font {
+    font-size: 14px;
+    text-align: center;
+    margin: 0px;
+}
+
+.CircularProgressbar  {
+    height: 95px;
+}
+
+.item_goal {
+    width: 70px;
+    display: inline-block;
+}
+
+.spec_progress_val {
+    padding: 10px 20px 30px 20px;
+}
+
+.spec_progress_val ion-progress-bar {
+    height: 10px;
+    border-radius: 10px;
+}
+
+.icon-handle {
+    font-size: 26px;
+    margin-top: 60px;
+}
+
+.progress-container-info {
+    font-weight: bold;
+    text-align: right;
+}

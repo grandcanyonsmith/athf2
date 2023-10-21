@@ -1,0 +1,7 @@
+.btn-action {
+    background-color: #99bc46;
+}
+
+.round {
+    --border-radius: 15px;
+}

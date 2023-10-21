@@ -1,0 +1,16 @@
+.specific-icons img {
+    width: 32px;
+}
+
+.grocery ion-checkbox {
+    --border-color: #ccc;
+}
+
+.grocery-row {
+    font-size: 14px;
+}
+
+.cart-icon {
+    font-size: 30px;
+    padding: 10px 10px 15px 10px;
+}

@@ -1,0 +1,26 @@
+.recipes-container {
+    max-height: calc(100vh - 30px) !important;
+    overflow-y: auto;
+    padding: 10px;
+}
+
+.recipes-info {
+    white-space: pre-wrap;
+    text-align: left;
+    padding: 15px;
+    line-height: 22px;
+    font-size: 14px;
+}
+
+.alignLeft {
+    text-align: left;
+    font-size: 14px;
+}
+
+.fontBold {
+    font-weight: bold;
+}
+
+.recipes-header {
+    --padding-start:5px
+}

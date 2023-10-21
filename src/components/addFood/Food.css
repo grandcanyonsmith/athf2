@@ -1,0 +1,51 @@
+.food-container {
+    max-height: calc(100vh - 250px) !important;
+    overflow-y: auto;
+}
+
+.img-item {
+    width: 56px;
+    height: 100%;
+}
+
+.selected_food {
+    --background: #eae9e9;
+}
+
+.selected-food-item {
+    font-weight: bold;
+    color: var(--ion-color-primary);
+}
+
+.item-all,
+.item-common {
+    border-right: 1px solid #ede9e9;
+}
+
+.food-main-container {
+    /* padding: 15px; */
+}
+
+.ion-modal-footer.food-item-footer {
+    height: auto;
+}
+
+.search-category {
+    border: 1px solid #ede9e9;
+    margin-right: 50px;
+    margin-left: 25px;
+}
+
+/* .food-container .item-detail-icon {
+    display: none!important;
+    --display: none!important;
+} */
+
+/* .food-item-specific {
+    --background-activated: red;
+    --ripple-color: red;
+} */
+/* .ripple-parent {
+    position: relative;
+    overflow: hidden;
+  } */
