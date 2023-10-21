@@ -44,8 +44,7 @@
     "react-media-player": "^0.7.9",
     "react-player": "^2.9.0",
     "react-router": "^5.1.2",
-    "react-router-dom": "^5.1.2",
-    "typescript": "3.8.3"
+    "react-router-dom": "^5.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -71,8 +70,10 @@
   },
   "devDependencies": {
     "@capacitor/cli": "^2.4.1",
+    "@types/babel__traverse": "^7.20.3",
     "cordova-res": "^0.15.2",
-    "react-scripts": "3.4.0"
+    "react-scripts": "3.4.0",
+    "typescript": "^5.2.2"
   },
   "description": "An Ionic project"
 }
